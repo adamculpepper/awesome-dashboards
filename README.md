@@ -36,9 +36,11 @@
 
 ## New tab extensions
 
+- [Anori](https://anori.app/) - Open source new tab extension with folders, widgets and custom themes.
 - [Bonjourr](https://bonjourr.fr/) - Minimalist new tab extension with iOS-style backgrounds, quick links, notes and a Pomodoro timer.
 - [Infinity New Tab](https://infinitynewtab.com) - New tab extension with icon folders, HD wallpapers, weather and cloud-synced bookmarks.
 - [Momentum](https://momentumdash.com) - New tab extension pairing a photo backdrop with a daily focus and to-do list.
+- [PresentBoard](https://chromewebstore.google.com/detail/presentboard-custom-new-t/eocahbefmnojcbnggklkhfolcekoobkd) - New tab extension with live widgets for calendar, stocks, weather and Google Photos.
 - [Tab Widgets](https://tabwidgets.com/) - New tab extension covering tasks, markets, AI chat and smart home control.
 
 ## Self-hosted and homelab
