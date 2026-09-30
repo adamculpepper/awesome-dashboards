@@ -25,10 +25,12 @@
 - [DashSuey](https://dashsuey.com/?utm_source=awesome-dashboards&utm_medium=referral&utm_campaign=awesome-dashboards-list&utm_content=readme-list-entry) - Personal dashboard with widgets you drag, resize and save to your own board.
 - [Dashly](https://dashly.live/) - Hosted dashboard with bookmarks, weather, world clocks and to-do lists.
 - [Family Dashboard](https://familylife.space/apps/dashboard-space/) - Household command center web app showing shared schedules, lists and updates in real time.
+- [FamilyDash](https://familydash.app/) - Hosted family dashboard with chore tracking, allowance, a shared calendar and grocery lists.
 - [Single Dashboard](https://singledashboard.com/) - Hosted command center dashboard sized for multi-monitor desktops, wall screens and TVs.
 
 ## Start pages
 
+- [Abunch](https://abunch.io/) - Personal web desktop organizing links into public or private categories.
 - [CentPage](https://www.centpage.com/) - Start page and productivity dashboard with widgets and an ad-free premium tier.
 - [Protopage](https://www.protopage.com) - Widget-based start page with private, public or password-shared tabs and categories.
 - [start.me](https://start.me) - Bookmark-based start page with widgets, page sharing and AI features.
@@ -41,6 +43,8 @@
 - [Infinity New Tab](https://infinitynewtab.com) - New tab extension with icon folders, HD wallpapers, weather and cloud-synced bookmarks.
 - [Momentum](https://momentumdash.com) - New tab extension pairing a photo backdrop with a daily focus and to-do list.
 - [PresentBoard](https://chromewebstore.google.com/detail/presentboard-custom-new-t/eocahbefmnojcbnggklkhfolcekoobkd) - New tab extension with live widgets for calendar, stocks, weather and Google Photos.
+- [Renewed Tab](https://renewedtab.com/) - Open source new tab extension with a resizable widget grid and rotating backgrounds.
+- [Start Page HQ](https://startpagehq.com/) - New tab extension spanning feeds, tasks, dev tools and AI.
 - [Tab Widgets](https://tabwidgets.com/) - New tab extension covering tasks, markets, AI chat and smart home control.
 
 ## Self-hosted and homelab
