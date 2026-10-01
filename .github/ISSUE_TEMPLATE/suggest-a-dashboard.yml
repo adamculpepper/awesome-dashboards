@@ -1,0 +1,88 @@
+name: Suggest a dashboard
+description: Suggest a dashboard, start page, extension, or other product for this list.
+title: "Suggestion: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: product-name
+    attributes:
+      label: Product name
+      description: The name of the product you are suggesting.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: A direct link to the product's own site or repository.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Pick the one category this product fits best.
+      options:
+        - Personal dashboards
+        - Start pages
+        - New tab extensions
+        - Self-hosted and homelab
+        - Wall displays, e-ink and hardware screens
+        - Smart home
+        - Notion and workspace widgets
+        - Business intelligence and analytics
+        - Monitoring and observability
+        - Team KPI and TV dashboards
+        - Dashboard frameworks and builders
+        - Admin dashboard templates
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: >-
+        Objective, 6 to 16 words, starting with a capital letter and ending with a
+        period. Say what the product does plus what sets it apart from similar
+        entries. No marketing words (seamless, powerful, robust, ultimate,
+        delightful, and the like), no dashes, and do not repeat the product name.
+      placeholder: Self-hosted app launcher with live status checks and a YAML config.
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Do you work on this product, or for the company that makes it?
+      options:
+        - No affiliation
+        - I work on it or for it
+        - Other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation-details
+    attributes:
+      label: Affiliation details
+      description: If you picked "Other" above, or want to add context to your affiliation, explain it here.
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence it's maintained
+      description: A link to a recent release, changelog entry, commit, or update from within the last year.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the list and this is not already on it.
+          required: true
+        - label: I confirmed the product works today and has been updated in the last year.
+          required: true
+        - label: The description above is objective, not marketing copy.
+          required: true
