@@ -19,6 +19,8 @@
 - [New tab extensions](#new-tab-extensions)
 - [Self-hosted and homelab](#self-hosted-and-homelab)
 - [Wall displays, e-ink and hardware screens](#wall-displays-e-ink-and-hardware-screens)
+- [Smart home](#smart-home)
+- [Notion and workspace widgets](#notion-and-workspace-widgets)
 
 ## Personal dashboards
 
@@ -49,6 +51,7 @@
 
 ## Self-hosted and homelab
 
+- [Compass](https://adinhodovic.github.io/compass/) - Landing page that auto-discovers services from Docker, Kubernetes, Tailscale and Headscale sources.
 - [Dashy](https://dashy.to/) - Self-hosted app launcher with live status checks, dozens of widgets, and a YAML config.
 - [Glance](https://github.com/glanceapp/glance) - Self-hosted feed aggregator with RSS, Reddit, and server stat widgets in one page.
 - [Heimdall](https://heimdall.site/) - Application launcher for homelab services with search and per-app live stats.
@@ -57,9 +60,18 @@
 
 ## Wall displays, e-ink and hardware screens
 
+- [AWTRIX NG](https://github.com/Blueforcer/awtrix-ng) - Source-available firmware turning an LED matrix panel into a scriptable notification display.
 - [DAKboard](https://dakboard.com/) - Wall display service showing calendars, photos, weather and smart home status on any screen.
 - [MagicMirror²](https://magicmirror.builders/) - Open source framework for building a Raspberry Pi smart mirror from modular widgets.
 - [TRMNL](https://usetrmnl.com/) - E-ink wall display running a plugin marketplace of dashboard apps.
+
+## Smart home
+
+- [Apple Home](https://www.apple.com/home-app/) - Built-in dashboard for HomeKit and Matter accessories across iPhone, iPad, Mac and Vision.
+
+## Notion and workspace widgets
+
+- [Blocs](https://blocs.me/) - Notion widgets for pomodoro timers, habit tracking and weather updates.
 
 ## Related Lists
 
