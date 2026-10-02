@@ -23,6 +23,9 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Wall displays, e-ink and hardware screens](#wall-displays-e-ink-and-hardware-screens)
 - [Smart home](#smart-home)
 - [Notion and workspace widgets](#notion-and-workspace-widgets)
+- [Business intelligence and analytics](#business-intelligence-and-analytics)
+- [Monitoring and observability](#monitoring-and-observability)
+- [Team KPI and TV dashboards](#team-kpi-and-tv-dashboards)
 
 ## Personal dashboards
 
@@ -74,6 +77,18 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## Notion and workspace widgets
 
 - [Blocs](https://blocs.me/) - Notion widgets for pomodoro timers, habit tracking and weather updates.
+
+## Business intelligence and analytics
+
+- [Apache Superset](https://superset.apache.org/) - Data exploration platform under the Apache Software Foundation, with a no-code chart builder and SQL IDE.
+
+## Monitoring and observability
+
+- [Beszel](https://beszel.dev/) - Lightweight server monitoring dashboard tracking CPU, memory, disk and Docker container stats.
+
+## Team KPI and TV dashboards
+
+- [AgencyAnalytics](https://agencyanalytics.com) - Client reporting platform for marketing agencies tracking campaigns across channels.
 
 ## Related Lists
 
