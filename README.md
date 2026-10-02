@@ -2,6 +2,8 @@
 
 > A list of dashboard products and projects: personal dashboards, start pages, new tab extensions, self-hosted and homelab dashboards, wall displays and e-ink screens, smart home panels, business intelligence and monitoring tools, and dashboard frameworks and admin templates.
 
+Longer write-ups for many entries, with checked prices and screenshots, live at [awesome-dashboards.com](https://awesome-dashboards.com).
+
 <div align="center">
 <sup>Sponsor</sup>
 <br>
