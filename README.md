@@ -26,6 +26,8 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Business intelligence and analytics](#business-intelligence-and-analytics)
 - [Monitoring and observability](#monitoring-and-observability)
 - [Team KPI and TV dashboards](#team-kpi-and-tv-dashboards)
+- [Dashboard frameworks and builders](#dashboard-frameworks-and-builders)
+- [Admin dashboard templates](#admin-dashboard-templates)
 
 ## Personal dashboards
 
@@ -38,6 +40,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## Start pages
 
 - [Abunch](https://abunch.io/) - Personal web desktop organizing links into public or private categories.
+- [Best Homepage Ever](https://besthomepageever.com/) - Ad-free homepage with self-arranged website shortcuts, live weather and AI-generated backgrounds.
 - [CentPage](https://www.centpage.com/) - Start page and productivity dashboard with widgets and an ad-free premium tier.
 - [Protopage](https://www.protopage.com) - Widget-based start page with private, public or password-shared tabs and categories.
 - [start.me](https://start.me) - Bookmark-based start page with widgets, page sharing and AI features.
@@ -46,6 +49,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## New tab extensions
 
 - [Anori](https://anori.app/) - Open source new tab extension with folders, widgets and custom themes.
+- [Awesome New Tab Page (ANTP)](https://chromewebstore.google.com/detail/awesome-new-tab-page/mgmiemnjjchgkmgbeljfocdjjnpjnmcg) - New tab extension with a drag-and-drop tile grid for shortcuts, weather and crypto prices.
 - [Bonjourr](https://bonjourr.fr/) - Minimalist new tab extension with iOS-style backgrounds, quick links, notes and a Pomodoro timer.
 - [Infinity New Tab](https://infinitynewtab.com) - New tab extension with icon folders, HD wallpapers, weather and cloud-synced bookmarks.
 - [Momentum](https://momentumdash.com) - New tab extension pairing a photo backdrop with a daily focus and to-do list.
@@ -89,6 +93,14 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## Team KPI and TV dashboards
 
 - [AgencyAnalytics](https://agencyanalytics.com) - Client reporting platform for marketing agencies tracking campaigns across channels.
+
+## Dashboard frameworks and builders
+
+- [AdminJS](https://adminjs.co/) - Node.js library that generates an admin dashboard directly from your database models.
+
+## Admin dashboard templates
+
+- [AdminLTE](https://adminlte.io/) - Bootstrap 5 admin dashboard template with a large library of prebuilt pages and widgets.
 
 ## Related Lists
 
