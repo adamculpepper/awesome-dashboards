@@ -84,18 +84,22 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## Notion and workspace widgets
 
 - [Blocs](https://blocs.me/) - Notion widgets for pomodoro timers, habit tracking and weather updates.
+- [Indify](https://indify.co/) - Widgets for Notion, Canva, Coda and other page builders.
 
 ## Business intelligence and analytics
 
 - [Apache Superset](https://superset.apache.org/) - Data exploration platform under the Apache Software Foundation, with a no-code chart builder and SQL IDE.
+- [Cube](https://cube.dev/) - Semantic layer that connects data models to dashboards and embedded analytics.
 
 ## Monitoring and observability
 
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring dashboard tracking CPU, memory, disk and Docker container stats.
+- [Datadog](https://www.datadoghq.com/product/platform/dashboards/) - Real-time dashboard layer that correlates metrics, traces and logs on drag-and-drop widgets.
 
 ## Team KPI and TV dashboards
 
 - [AgencyAnalytics](https://agencyanalytics.com) - Client reporting platform for marketing agencies tracking campaigns across channels.
+- [BoardQ](https://www.boardq.io/) - Live leaderboard maker that syncs a CRM or spreadsheet straight to an office TV.
 
 ## Dashboard frameworks and builders
 
