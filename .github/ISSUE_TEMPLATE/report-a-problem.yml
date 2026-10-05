@@ -1,0 +1,38 @@
+name: Report a problem
+description: Report a dead link, a shut-down or unmaintained product, a wrong description, or a mistake in a write-up on the website.
+title: "Problem: "
+labels: ["problem"]
+body:
+  - type: input
+    id: entry-name
+    attributes:
+      label: Entry name
+      description: The name of the entry in README.md that this concerns.
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Link is dead
+        - Product shut down or unmaintained
+        - Description is wrong
+        - A write-up on awesome-dashboards.com is wrong
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What's wrong, and what you think should change.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
+      description: A link backing this up, such as the dead page, a shutdown notice, or a source for the correct information.
+    validations:
+      required: true
