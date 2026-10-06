@@ -104,10 +104,12 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## Dashboard frameworks and builders
 
 - [AdminJS](https://adminjs.co/) - Node.js library that generates an admin dashboard directly from your database models.
+- [Appsmith](https://www.appsmith.com/) - Low-code platform for building internal tools, admin panels and dashboards on your own data.
 
 ## Admin dashboard templates
 
 - [AdminLTE](https://adminlte.io/) - Bootstrap 5 admin dashboard template with a large library of prebuilt pages and widgets.
+- [Ant Design Pro](https://pro.ant.design/) - Out of the box admin panel built on the Ant Design system.
 
 ## Related Lists
 
