@@ -42,6 +42,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Abunch](https://abunch.io/) - Personal web desktop organizing links into public or private categories.
 - [Best Homepage Ever](https://besthomepageever.com/) - Ad-free homepage with self-arranged website shortcuts, live weather and AI-generated backgrounds.
 - [CentPage](https://www.centpage.com/) - Start page and productivity dashboard with widgets and an ad-free premium tier.
+- [igHome](https://www.ighome.com/Default.aspx) - Portal in the iGoogle style, offering customizable gadgets, bookmarks and news feeds.
 - [Protopage](https://www.protopage.com) - Widget-based start page with private, public or password-shared tabs and categories.
 - [start.me](https://start.me) - Bookmark-based start page with widgets, page sharing and AI features.
 - [Symbaloo](https://www.symbaloo.com/) - Tile-based start page organizing bookmarks and apps into a visual grid.
@@ -51,6 +52,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Anori](https://anori.app/) - Open source new tab extension with folders, widgets and custom themes.
 - [Awesome New Tab Page (ANTP)](https://chromewebstore.google.com/detail/awesome-new-tab-page/mgmiemnjjchgkmgbeljfocdjjnpjnmcg) - New tab extension with a drag-and-drop tile grid for shortcuts, weather and crypto prices.
 - [Bonjourr](https://bonjourr.fr/) - Minimalist new tab extension with iOS-style backgrounds, quick links, notes and a Pomodoro timer.
+- [Halo New Tab Dashboard](https://chromewebstore.google.com/detail/halo-new-tab-dashboard/kifggjjndifjphaldpnilgieghlhelpc) - New tab extension with ambient video backgrounds, a clock, calendar and to-do list.
 - [Infinity New Tab](https://infinitynewtab.com) - New tab extension with icon folders, HD wallpapers, weather and cloud-synced bookmarks.
 - [Momentum](https://momentumdash.com) - New tab extension pairing a photo backdrop with a daily focus and to-do list.
 - [PresentBoard](https://chromewebstore.google.com/detail/presentboard-custom-new-t/eocahbefmnojcbnggklkhfolcekoobkd) - New tab extension with live widgets for calendar, stocks, weather and Google Photos.
@@ -63,6 +65,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Compass](https://adinhodovic.github.io/compass/) - Landing page that auto-discovers services from Docker, Kubernetes, Tailscale and Headscale sources.
 - [Dashdot](https://getdashdot.com/) - Real-time hardware dashboard showing CPU, memory, storage and network stats for a server.
 - [Dashy](https://dashy.to/) - Self-hosted app launcher with live status checks, dozens of widgets, and a YAML config.
+- [Fenrus](https://github.com/revenz/Fenrus) - Multi-user home page built in .NET, with group dashboards, smart apps and OAuth support.
 - [Glance](https://github.com/glanceapp/glance) - Self-hosted feed aggregator with RSS, Reddit, and server stat widgets in one page.
 - [Heimdall](https://heimdall.site/) - Application launcher for homelab services with search and per-app live stats.
 - [Homarr](https://homarr.dev/) - Drag-and-drop homelab dashboard with built-in authentication and third-party integrations.
@@ -73,6 +76,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [AWTRIX NG](https://github.com/Blueforcer/awtrix-ng) - Source-available firmware turning an LED matrix panel into a scriptable notification display.
 - [DAKboard](https://dakboard.com/) - Wall display service showing calendars, photos, weather and smart home status on any screen.
 - [Inkycal](https://inkycal.aceinnolab.com/) - Open source e-paper dashboard framework for Raspberry Pi, sold assembled or built yourself.
+- [InkyPi](https://github.com/fatihak/InkyPi) - Open source e-ink dashboard for Raspberry Pi with a browser-based plugin configuration.
 - [MagicMirror²](https://magicmirror.builders/) - Open source framework for building a Raspberry Pi smart mirror from modular widgets.
 - [TRMNL](https://usetrmnl.com/) - E-ink wall display running a plugin marketplace of dashboard apps.
 
