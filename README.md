@@ -84,21 +84,25 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 
 - [Apple Home](https://www.apple.com/home-app/) - Built-in dashboard for HomeKit and Matter accessories across iPhone, iPad, Mac and Vision.
 - [Google Home](https://home.google.com/) - Dashboard app for Nest, Chromecast and Matter devices with Gemini voice control.
+- [Home Assistant](https://www.home-assistant.io/dashboards/) - Drag-and-drop dashboard built into an open source smart home automation platform.
 
 ## Notion and workspace widgets
 
 - [Blocs](https://blocs.me/) - Notion widgets for pomodoro timers, habit tracking and weather updates.
 - [Indify](https://indify.co/) - Widgets for Notion, Canva, Coda and other page builders.
+- [Nodi.so](https://nodi.so/) - Notion widgets for pomodoro timers, weather, calendars and countdowns.
 
 ## Business intelligence and analytics
 
 - [Apache Superset](https://superset.apache.org/) - Data exploration platform under the Apache Software Foundation, with a no-code chart builder and SQL IDE.
 - [Cube](https://cube.dev/) - Semantic layer that connects data models to dashboards and embedded analytics.
+- [Domo](https://www.domo.com/) - Cloud platform for building dashboards, apps and shared business reports.
 
 ## Monitoring and observability
 
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring dashboard tracking CPU, memory, disk and Docker container stats.
 - [Datadog](https://www.datadoghq.com/product/platform/dashboards/) - Real-time dashboard layer that correlates metrics, traces and logs on drag-and-drop widgets.
+- [Gatus](https://gatus.io/) - Developer-oriented status page with scripted health checks across HTTP, DNS, TCP and more protocols.
 
 ## Team KPI and TV dashboards
 
