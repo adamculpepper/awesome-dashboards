@@ -129,3 +129,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - Browser start pages, split into GitHub Pages projects, hosted services, static builds and browser extensions.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-hosted free software across many categories, with personal dashboards as one section among them.
 - [awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Open source apps for homelab servers, organized by function such as AI, media and networking.
+
+## Contributing
+
+To add a dashboard, fix an entry or flag a dead link, see [contributing.md](contributing.md) for the format and the quality bar this list holds to.
