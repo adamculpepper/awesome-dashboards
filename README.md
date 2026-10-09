@@ -43,6 +43,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Best Homepage Ever](https://besthomepageever.com/) - Ad-free homepage with self-arranged website shortcuts, live weather and AI-generated backgrounds.
 - [CentPage](https://www.centpage.com/) - Start page and productivity dashboard with widgets and an ad-free premium tier.
 - [igHome](https://www.ighome.com/Default.aspx) - Portal in the iGoogle style, offering customizable gadgets, bookmarks and news feeds.
+- [Kadaza](https://www.kadaza.com/) - Directory-style start page grouping popular sites into topics, with custom backgrounds.
 - [Protopage](https://www.protopage.com) - Widget-based start page with private, public or password-shared tabs and categories.
 - [start.me](https://start.me) - Bookmark-based start page with widgets, page sharing and AI features.
 - [Symbaloo](https://www.symbaloo.com/) - Tile-based start page organizing bookmarks and apps into a visual grid.
@@ -108,11 +109,13 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 
 - [AgencyAnalytics](https://agencyanalytics.com) - Client reporting platform for marketing agencies tracking campaigns across channels.
 - [BoardQ](https://www.boardq.io/) - Live leaderboard maker that syncs a CRM or spreadsheet straight to an office TV.
+- [DashThis](https://dashthis.com) - Marketing report builder that combines multiple ad and analytics accounts into one dashboard.
 
 ## Dashboard frameworks and builders
 
 - [AdminJS](https://adminjs.co/) - Node.js library that generates an admin dashboard directly from your database models.
 - [Appsmith](https://www.appsmith.com/) - Low-code platform for building internal tools, admin panels and dashboards on your own data.
+- [Budibase](https://budibase.com/) - Open source low-code platform for building internal apps, forms and dashboards from a database.
 
 ## Admin dashboard templates
 
