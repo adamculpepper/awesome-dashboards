@@ -55,6 +55,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Bonjourr](https://bonjourr.fr/) - Minimalist new tab extension with iOS-style backgrounds, quick links, notes and a Pomodoro timer.
 - [Halo New Tab Dashboard](https://chromewebstore.google.com/detail/halo-new-tab-dashboard/kifggjjndifjphaldpnilgieghlhelpc) - New tab extension with ambient video backgrounds, a clock, calendar and to-do list.
 - [Infinity New Tab](https://infinitynewtab.com) - New tab extension with icon folders, HD wallpapers, weather and cloud-synced bookmarks.
+- [Meomni](https://chromewebstore.google.com/detail/calendar-new-tab/cmfhopmhaagcfnjflfppceclmkenjkpc) - New tab extension syncing Google and Outlook calendars with tasks and a ChatGPT sidebar.
 - [Momentum](https://momentumdash.com) - New tab extension pairing a photo backdrop with a daily focus and to-do list.
 - [PresentBoard](https://chromewebstore.google.com/detail/presentboard-custom-new-t/eocahbefmnojcbnggklkhfolcekoobkd) - New tab extension with live widgets for calendar, stocks, weather and Google Photos.
 - [Renewed Tab](https://renewedtab.com/) - Open source new tab extension with a resizable widget grid and rotating backgrounds.
@@ -67,6 +68,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Dashdot](https://getdashdot.com/) - Real-time hardware dashboard showing CPU, memory, storage and network stats for a server.
 - [Dashy](https://dashy.to/) - Self-hosted app launcher with live status checks, dozens of widgets, and a YAML config.
 - [Fenrus](https://github.com/revenz/Fenrus) - Multi-user home page built in .NET, with group dashboards, smart apps and OAuth support.
+- [Flame](https://github.com/pawelmalak/flame) - Self-hosted startpage with built-in editors for apps, bookmarks, and custom themes.
 - [Glance](https://github.com/glanceapp/glance) - Self-hosted feed aggregator with RSS, Reddit, and server stat widgets in one page.
 - [Heimdall](https://heimdall.site/) - Application launcher for homelab services with search and per-app live stats.
 - [Homarr](https://homarr.dev/) - Drag-and-drop homelab dashboard with built-in authentication and third-party integrations.
@@ -78,6 +80,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [DAKboard](https://dakboard.com/) - Wall display service showing calendars, photos, weather and smart home status on any screen.
 - [Inkycal](https://inkycal.aceinnolab.com/) - Open source e-paper dashboard framework for Raspberry Pi, sold assembled or built yourself.
 - [InkyPi](https://github.com/fatihak/InkyPi) - Open source e-ink dashboard for Raspberry Pi with a browser-based plugin configuration.
+- [LaMetric Time](https://www.lametric.com/en-us/lametric-time) - Pixel-display smart clock showing weather, notifications and app data from a public app store.
 - [MagicMirror²](https://magicmirror.builders/) - Open source framework for building a Raspberry Pi smart mirror from modular widgets.
 - [TRMNL](https://usetrmnl.com/) - E-ink wall display running a plugin marketplace of dashboard apps.
 
