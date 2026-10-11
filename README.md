@@ -89,12 +89,14 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Apple Home](https://www.apple.com/home-app/) - Built-in dashboard for HomeKit and Matter accessories across iPhone, iPad, Mac and Vision.
 - [Google Home](https://home.google.com/) - Dashboard app for Nest, Chromecast and Matter devices with Gemini voice control.
 - [Home Assistant](https://www.home-assistant.io/dashboards/) - Drag-and-drop dashboard built into an open source smart home automation platform.
+- [Homey](https://homey.app/) - Smart home hub with app-based device control, automation flows and custom dashboards.
 
 ## Notion and workspace widgets
 
 - [Blocs](https://blocs.me/) - Notion widgets for pomodoro timers, habit tracking and weather updates.
 - [Indify](https://indify.co/) - Widgets for Notion, Canva, Coda and other page builders.
 - [Nodi.so](https://nodi.so/) - Notion widgets for pomodoro timers, weather, calendars and countdowns.
+- [thePlus](https://theplus.so/) - Notion widget embeds for images, text and announcements on a page.
 
 ## Business intelligence and analytics
 
