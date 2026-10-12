@@ -103,18 +103,21 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Apache Superset](https://superset.apache.org/) - Data exploration platform under the Apache Software Foundation, with a no-code chart builder and SQL IDE.
 - [Cube](https://cube.dev/) - Semantic layer that connects data models to dashboards and embedded analytics.
 - [Domo](https://www.domo.com/) - Cloud platform for building dashboards, apps and shared business reports.
+- [Evidence](https://evidence.dev/) - Markdown and SQL framework that compiles reports and dashboards as code, with an analytics chat agent.
 
 ## Monitoring and observability
 
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring dashboard tracking CPU, memory, disk and Docker container stats.
 - [Datadog](https://www.datadoghq.com/product/platform/dashboards/) - Real-time dashboard layer that correlates metrics, traces and logs on drag-and-drop widgets.
 - [Gatus](https://gatus.io/) - Developer-oriented status page with scripted health checks across HTTP, DNS, TCP and more protocols.
+- [Grafana](https://grafana.com/oss/grafana/) - Dashboarding and visualization layer for Prometheus, Loki and hundreds of other data sources.
 
 ## Team KPI and TV dashboards
 
 - [AgencyAnalytics](https://agencyanalytics.com) - Client reporting platform for marketing agencies tracking campaigns across channels.
 - [BoardQ](https://www.boardq.io/) - Live leaderboard maker that syncs a CRM or spreadsheet straight to an office TV.
 - [DashThis](https://dashthis.com) - Marketing report builder that combines multiple ad and analytics accounts into one dashboard.
+- [Databox](https://databox.com) - Business analytics platform with an AI assistant that answers questions about your metrics.
 
 ## Dashboard frameworks and builders
 
