@@ -44,6 +44,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [CentPage](https://www.centpage.com/) - Start page and productivity dashboard with widgets and an ad-free premium tier.
 - [igHome](https://www.ighome.com/Default.aspx) - Portal in the iGoogle style, offering customizable gadgets, bookmarks and news feeds.
 - [Kadaza](https://www.kadaza.com/) - Directory-style start page grouping popular sites into topics, with custom backgrounds.
+- [MyFav.es](https://myfav.es/) - Minimal start page for picking favorite site icons and a background, then sharing the URL.
 - [Protopage](https://www.protopage.com) - Widget-based start page with private, public or password-shared tabs and categories.
 - [start.me](https://start.me) - Bookmark-based start page with widgets, page sharing and AI features.
 - [Symbaloo](https://www.symbaloo.com/) - Tile-based start page organizing bookmarks and apps into a visual grid.
@@ -73,6 +74,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Heimdall](https://heimdall.site/) - Application launcher for homelab services with search and per-app live stats.
 - [Homarr](https://homarr.dev/) - Drag-and-drop homelab dashboard with built-in authentication and third-party integrations.
 - [Homepage](https://gethomepage.dev/) - Static server dashboard with service integrations and Docker label discovery.
+- [Homer](https://github.com/bastienwirtz/homer) - Static landing page for a server, built from one YAML file with fuzzy search.
 
 ## Wall displays, e-ink and hardware screens
 
@@ -124,11 +126,13 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [AdminJS](https://adminjs.co/) - Node.js library that generates an admin dashboard directly from your database models.
 - [Appsmith](https://www.appsmith.com/) - Low-code platform for building internal tools, admin panels and dashboards on your own data.
 - [Budibase](https://budibase.com/) - Open source low-code platform for building internal apps, forms and dashboards from a database.
+- [gridstack.js](https://gridstackjs.com/) - JavaScript library for building draggable, resizable dashboard grids without a framework dependency.
 
 ## Admin dashboard templates
 
 - [AdminLTE](https://adminlte.io/) - Bootstrap 5 admin dashboard template with a large library of prebuilt pages and widgets.
 - [Ant Design Pro](https://pro.ant.design/) - Out of the box admin panel built on the Ant Design system.
+- [CoreUI](https://coreui.io/) - Admin template and component library available for Bootstrap, React, Vue and Angular.
 
 ## Related Lists
 
