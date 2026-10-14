@@ -84,6 +84,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [InkyPi](https://github.com/fatihak/InkyPi) - Open source e-ink dashboard for Raspberry Pi with a browser-based plugin configuration.
 - [LaMetric Time](https://www.lametric.com/en-us/lametric-time) - Pixel-display smart clock showing weather, notifications and app data from a public app store.
 - [MagicMirror²](https://magicmirror.builders/) - Open source framework for building a Raspberry Pi smart mirror from modular widgets.
+- [Skylight Calendar](https://www.skylightframe.com/products/skylight-calendar) - Wall-mounted touchscreen family calendar with chores, meal planning and photo screensaver.
 - [TRMNL](https://usetrmnl.com/) - E-ink wall display running a plugin marketplace of dashboard apps.
 
 ## Smart home
@@ -92,6 +93,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Google Home](https://home.google.com/) - Dashboard app for Nest, Chromecast and Matter devices with Gemini voice control.
 - [Home Assistant](https://www.home-assistant.io/dashboards/) - Drag-and-drop dashboard built into an open source smart home automation platform.
 - [Homey](https://homey.app/) - Smart home hub with app-based device control, automation flows and custom dashboards.
+- [Hubitat](https://hubitat.com/) - Local-processing smart home hub with per-room, per-user custom dashboards, no subscription required.
 
 ## Notion and workspace widgets
 
