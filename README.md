@@ -101,6 +101,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Indify](https://indify.co/) - Widgets for Notion, Canva, Coda and other page builders.
 - [Nodi.so](https://nodi.so/) - Notion widgets for pomodoro timers, weather, calendars and countdowns.
 - [thePlus](https://theplus.so/) - Notion widget embeds for images, text and announcements on a page.
+- [Widgets For Notion](https://widgetsfornotion.com/) - Free-to-embed catalog of clocks, calendars and timers, with an AI widget generator.
 
 ## Business intelligence and analytics
 
@@ -108,6 +109,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Cube](https://cube.dev/) - Semantic layer that connects data models to dashboards and embedded analytics.
 - [Domo](https://www.domo.com/) - Cloud platform for building dashboards, apps and shared business reports.
 - [Evidence](https://evidence.dev/) - Markdown and SQL framework that compiles reports and dashboards as code, with an analytics chat agent.
+- [Holistics](https://www.holistics.io/) - Self-service analytics platform built around a semantic modeling layer, with SQL pass-through for analysts.
 
 ## Monitoring and observability
 
