@@ -117,6 +117,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Datadog](https://www.datadoghq.com/product/platform/dashboards/) - Real-time dashboard layer that correlates metrics, traces and logs on drag-and-drop widgets.
 - [Gatus](https://gatus.io/) - Developer-oriented status page with scripted health checks across HTTP, DNS, TCP and more protocols.
 - [Grafana](https://grafana.com/oss/grafana/) - Dashboarding and visualization layer for Prometheus, Loki and hundreds of other data sources.
+- [Kibana](https://www.elastic.co/kibana) - Visualization and dashboard layer for Elasticsearch, with anomaly detection and geospatial map panels.
 
 ## Team KPI and TV dashboards
 
@@ -124,6 +125,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [BoardQ](https://www.boardq.io/) - Live leaderboard maker that syncs a CRM or spreadsheet straight to an office TV.
 - [DashThis](https://dashthis.com) - Marketing report builder that combines multiple ad and analytics accounts into one dashboard.
 - [Databox](https://databox.com) - Business analytics platform with an AI assistant that answers questions about your metrics.
+- [Geckoboard](https://www.geckoboard.com) - Real-time business dashboards built for office TVs, Slack and Teams.
 
 ## Dashboard frameworks and builders
 
