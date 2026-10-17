@@ -45,6 +45,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [igHome](https://www.ighome.com/Default.aspx) - Portal in the iGoogle style, offering customizable gadgets, bookmarks and news feeds.
 - [Kadaza](https://www.kadaza.com/) - Directory-style start page grouping popular sites into topics, with custom backgrounds.
 - [MyFav.es](https://myfav.es/) - Minimal start page for picking favorite site icons and a background, then sharing the URL.
+- [MyKK](https://mykk.us/) - Single HTML file start page with drag-drop widgets, offline storage and optional cloud sync.
 - [Protopage](https://www.protopage.com) - Widget-based start page with private, public or password-shared tabs and categories.
 - [start.me](https://start.me) - Bookmark-based start page with widgets, page sharing and AI features.
 - [Symbaloo](https://www.symbaloo.com/) - Tile-based start page organizing bookmarks and apps into a visual grid.
@@ -133,12 +134,14 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Appsmith](https://www.appsmith.com/) - Low-code platform for building internal tools, admin panels and dashboards on your own data.
 - [Budibase](https://budibase.com/) - Open source low-code platform for building internal apps, forms and dashboards from a database.
 - [gridstack.js](https://gridstackjs.com/) - JavaScript library for building draggable, resizable dashboard grids without a framework dependency.
+- [Panel](https://panel.holoviz.org/) - Python library for turning data analysis notebooks into interactive web apps and dashboards.
 
 ## Admin dashboard templates
 
 - [AdminLTE](https://adminlte.io/) - Bootstrap 5 admin dashboard template with a large library of prebuilt pages and widgets.
 - [Ant Design Pro](https://pro.ant.design/) - Out of the box admin panel built on the Ant Design system.
 - [CoreUI](https://coreui.io/) - Admin template and component library available for Bootstrap, React, Vue and Angular.
+- [Materio](https://themeselection.com/item/materio-mui-react-nextjs-admin-template-free/) - MUI and Vuetify admin dashboard template for Next.js, React and Vue projects.
 
 ## Related Lists
 
