@@ -60,6 +60,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Meomni](https://chromewebstore.google.com/detail/calendar-new-tab/cmfhopmhaagcfnjflfppceclmkenjkpc) - New tab extension syncing Google and Outlook calendars with tasks and a ChatGPT sidebar.
 - [Momentum](https://momentumdash.com) - New tab extension pairing a photo backdrop with a daily focus and to-do list.
 - [PresentBoard](https://chromewebstore.google.com/detail/presentboard-custom-new-t/eocahbefmnojcbnggklkhfolcekoobkd) - New tab extension with live widgets for calendar, stocks, weather and Google Photos.
+- [PurposeTab](https://purposetab.com/) - New tab extension that tracks daily goals, habits, journaling and a vision board.
 - [Renewed Tab](https://renewedtab.com/) - Open source new tab extension with a resizable widget grid and rotating backgrounds.
 - [Start Page HQ](https://startpagehq.com/) - New tab extension spanning feeds, tasks, dev tools and AI.
 - [Tab Widgets](https://tabwidgets.com/) - New tab extension covering tasks, markets, AI chat and smart home control.
@@ -76,6 +77,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Homarr](https://homarr.dev/) - Drag-and-drop homelab dashboard with built-in authentication and third-party integrations.
 - [Homepage](https://gethomepage.dev/) - Static server dashboard with service integrations and Docker label discovery.
 - [Homer](https://github.com/bastienwirtz/homer) - Static landing page for a server, built from one YAML file with fuzzy search.
+- [Hubleys](https://github.com/knrdl/hubleys-dashboard) - Per-user link dashboard with folders, weather, calendar events and admin-controlled groups.
 
 ## Wall displays, e-ink and hardware screens
 
@@ -86,6 +88,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [LaMetric Time](https://www.lametric.com/en-us/lametric-time) - Pixel-display smart clock showing weather, notifications and app data from a public app store.
 - [MagicMirror²](https://magicmirror.builders/) - Open source framework for building a Raspberry Pi smart mirror from modular widgets.
 - [Skylight Calendar](https://www.skylightframe.com/products/skylight-calendar) - Wall-mounted touchscreen family calendar with chores, meal planning and photo screensaver.
+- [Tidbyt](https://tidbyt.com/) - LED matrix wall display cycling through apps for sports, stocks, weather and transit.
 - [TRMNL](https://usetrmnl.com/) - E-ink wall display running a plugin marketplace of dashboard apps.
 
 ## Smart home
@@ -95,6 +98,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Home Assistant](https://www.home-assistant.io/dashboards/) - Drag-and-drop dashboard built into an open source smart home automation platform.
 - [Homey](https://homey.app/) - Smart home hub with app-based device control, automation flows and custom dashboards.
 - [Hubitat](https://hubitat.com/) - Local-processing smart home hub with per-room, per-user custom dashboards, no subscription required.
+- [openHAB](https://www.openhab.org/) - Vendor-neutral open source home automation platform with a drag-and-drop dashboard UI.
 
 ## Notion and workspace widgets
 
