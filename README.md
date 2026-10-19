@@ -107,6 +107,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Nodi.so](https://nodi.so/) - Notion widgets for pomodoro timers, weather, calendars and countdowns.
 - [thePlus](https://theplus.so/) - Notion widget embeds for images, text and announcements on a page.
 - [Widgets For Notion](https://widgetsfornotion.com/) - Free-to-embed catalog of clocks, calendars and timers, with an AI widget generator.
+- [WidgetStation](https://widgetstation.com/) - Notion widget platform with a wide range of themes and live embed tracking.
 
 ## Business intelligence and analytics
 
@@ -115,6 +116,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Domo](https://www.domo.com/) - Cloud platform for building dashboards, apps and shared business reports.
 - [Evidence](https://evidence.dev/) - Markdown and SQL framework that compiles reports and dashboards as code, with an analytics chat agent.
 - [Holistics](https://www.holistics.io/) - Self-service analytics platform built around a semantic modeling layer, with SQL pass-through for analysts.
+- [Lightdash](https://www.lightdash.com/) - Business intelligence tool built on dbt, with a metrics catalog and governed self-serve exploration.
 
 ## Monitoring and observability
 
@@ -123,6 +125,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Gatus](https://gatus.io/) - Developer-oriented status page with scripted health checks across HTTP, DNS, TCP and more protocols.
 - [Grafana](https://grafana.com/oss/grafana/) - Dashboarding and visualization layer for Prometheus, Loki and hundreds of other data sources.
 - [Kibana](https://www.elastic.co/kibana) - Visualization and dashboard layer for Elasticsearch, with anomaly detection and geospatial map panels.
+- [Netdata](https://www.netdata.cloud/) - Per-second infrastructure monitoring agent with zero-configuration dashboards and an AI root-cause assistant.
 
 ## Team KPI and TV dashboards
 
@@ -131,6 +134,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [DashThis](https://dashthis.com) - Marketing report builder that combines multiple ad and analytics accounts into one dashboard.
 - [Databox](https://databox.com) - Business analytics platform with an AI assistant that answers questions about your metrics.
 - [Geckoboard](https://www.geckoboard.com) - Real-time business dashboards built for office TVs, Slack and Teams.
+- [iDashboards](https://www.idashboards.com/) - Business intelligence software for building operational dashboards, workflows and wall displays.
 
 ## Dashboard frameworks and builders
 
