@@ -78,6 +78,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Homepage](https://gethomepage.dev/) - Static server dashboard with service integrations and Docker label discovery.
 - [Homer](https://github.com/bastienwirtz/homer) - Static landing page for a server, built from one YAML file with fuzzy search.
 - [Hubleys](https://github.com/knrdl/hubleys-dashboard) - Per-user link dashboard with folders, weather, calendar events and admin-controlled groups.
+- [Nimbus](https://nimbus.turboot.com/) - Multi-user homelab dashboard with health checks, uptime graphs and drag-and-drop tiles.
 
 ## Wall displays, e-ink and hardware screens
 
@@ -143,6 +144,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Budibase](https://budibase.com/) - Open source low-code platform for building internal apps, forms and dashboards from a database.
 - [gridstack.js](https://gridstackjs.com/) - JavaScript library for building draggable, resizable dashboard grids without a framework dependency.
 - [Panel](https://panel.holoviz.org/) - Python library for turning data analysis notebooks into interactive web apps and dashboards.
+- [Plotly Dash](https://dash.plotly.com/) - Python framework for building analytical web apps and dashboards using reactive callbacks.
 
 ## Admin dashboard templates
 
@@ -150,6 +152,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Ant Design Pro](https://pro.ant.design/) - Out of the box admin panel built on the Ant Design system.
 - [CoreUI](https://coreui.io/) - Admin template and component library available for Bootstrap, React, Vue and Angular.
 - [Materio](https://themeselection.com/item/materio-mui-react-nextjs-admin-template-free/) - MUI and Vuetify admin dashboard template for Next.js, React and Vue projects.
+- [Metronic](https://keenthemes.com/metronic/) - Paid dashboard template built with Tailwind CSS and Bootstrap, sold for many years.
 
 ## Related Lists
 
