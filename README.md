@@ -100,6 +100,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Homey](https://homey.app/) - Smart home hub with app-based device control, automation flows and custom dashboards.
 - [Hubitat](https://hubitat.com/) - Local-processing smart home hub with per-room, per-user custom dashboards, no subscription required.
 - [openHAB](https://www.openhab.org/) - Vendor-neutral open source home automation platform with a drag-and-drop dashboard UI.
+- [Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect) - Dashboard app controlling Samsung and third-party smart home devices with routines.
 
 ## Notion and workspace widgets
 
@@ -114,6 +115,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 
 - [Apache Superset](https://superset.apache.org/) - Data exploration platform under the Apache Software Foundation, with a no-code chart builder and SQL IDE.
 - [Cube](https://cube.dev/) - Semantic layer that connects data models to dashboards and embedded analytics.
+- [Data Studio](https://cloud.google.com/looker-studio) - Google Cloud reporting tool with drag-and-drop charts and many data connectors.
 - [Domo](https://www.domo.com/) - Cloud platform for building dashboards, apps and shared business reports.
 - [Evidence](https://evidence.dev/) - Markdown and SQL framework that compiles reports and dashboards as code, with an analytics chat agent.
 - [Holistics](https://www.holistics.io/) - Self-service analytics platform built around a semantic modeling layer, with SQL pass-through for analysts.
@@ -127,6 +129,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Grafana](https://grafana.com/oss/grafana/) - Dashboarding and visualization layer for Prometheus, Loki and hundreds of other data sources.
 - [Kibana](https://www.elastic.co/kibana) - Visualization and dashboard layer for Elasticsearch, with anomaly detection and geospatial map panels.
 - [Netdata](https://www.netdata.cloud/) - Per-second infrastructure monitoring agent with zero-configuration dashboards and an AI root-cause assistant.
+- [Perses](https://perses.dev/) - CNCF dashboard tool built around an open specification, with dashboard-as-code SDKs and a Kubernetes operator.
 
 ## Team KPI and TV dashboards
 
