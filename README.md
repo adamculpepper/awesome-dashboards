@@ -102,6 +102,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Hubitat](https://hubitat.com/) - Local-processing smart home hub with per-room, per-user custom dashboards, no subscription required.
 - [openHAB](https://www.openhab.org/) - Vendor-neutral open source home automation platform with a drag-and-drop dashboard UI.
 - [Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect) - Dashboard app controlling Samsung and third-party smart home devices with routines.
+- [SharpTools](https://sharptools.io/) - Drag-and-drop dashboard builder connecting to SmartThings, Hubitat, Home Assistant and Homey.
 
 ## Notion and workspace widgets
 
@@ -121,6 +122,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Evidence](https://evidence.dev/) - Markdown and SQL framework that compiles reports and dashboards as code, with an analytics chat agent.
 - [Holistics](https://www.holistics.io/) - Self-service analytics platform built around a semantic modeling layer, with SQL pass-through for analysts.
 - [Lightdash](https://www.lightdash.com/) - Business intelligence tool built on dbt, with a metrics catalog and governed self-serve exploration.
+- [Metabase](https://www.metabase.com/) - Business intelligence platform with a query builder, SQL editor and an embeddable analytics SDK.
 
 ## Monitoring and observability
 
