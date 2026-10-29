@@ -133,6 +133,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Kibana](https://www.elastic.co/kibana) - Visualization and dashboard layer for Elasticsearch, with anomaly detection and geospatial map panels.
 - [Netdata](https://www.netdata.cloud/) - Per-second infrastructure monitoring agent with zero-configuration dashboards and an AI root-cause assistant.
 - [Perses](https://perses.dev/) - CNCF dashboard tool built around an open specification, with dashboard-as-code SDKs and a Kubernetes operator.
+- [Prometheus](https://prometheus.io/) - Metrics database and alerting engine with a built-in expression browser, usually paired with Grafana for dashboards.
 
 ## Team KPI and TV dashboards
 
@@ -143,6 +144,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Geckoboard](https://www.geckoboard.com) - Real-time business dashboards built for office TVs, Slack and Teams.
 - [iDashboards](https://www.idashboards.com/) - Business intelligence software for building operational dashboards, workflows and wall displays.
 - [Klipfolio](https://www.klipfolio.com) - Cloud dashboard builder that blends data from spreadsheets and business apps into one view.
+- [Plecto](https://www.plecto.com) - Sales and support dashboard software that adds contests and rewards to daily targets.
 
 ## Dashboard frameworks and builders
 
