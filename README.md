@@ -155,6 +155,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Panel](https://panel.holoviz.org/) - Python library for turning data analysis notebooks into interactive web apps and dashboards.
 - [Plotly Dash](https://dash.plotly.com/) - Python framework for building analytical web apps and dashboards using reactive callbacks.
 - [react-admin](https://marmelab.com/react-admin/) - React framework for turning a REST or GraphQL API into an admin dashboard.
+- [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - React library for draggable, resizable grid layouts used to build custom dashboard interfaces.
 
 ## Admin dashboard templates
 
@@ -164,6 +165,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Materio](https://themeselection.com/item/materio-mui-react-nextjs-admin-template-free/) - MUI and Vuetify admin dashboard template for Next.js, React and Vue projects.
 - [Metronic](https://keenthemes.com/metronic/) - Paid dashboard template built with Tailwind CSS and Bootstrap, sold for many years.
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - React admin dashboard built with shadcn/ui components and Vite.
+- [Sneat](https://themeselection.com/item/sneat-bootstrap-html-admin-template/) - Bootstrap admin dashboard template with matching React and Vue versions available.
 
 ## Related Lists
 
