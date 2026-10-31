@@ -80,6 +80,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Hubleys](https://github.com/knrdl/hubleys-dashboard) - Per-user link dashboard with folders, weather, calendar events and admin-controlled groups.
 - [Nimbus](https://nimbus.turboot.com/) - Multi-user homelab dashboard with health checks, uptime graphs and drag-and-drop tiles.
 - [Organizr](https://github.com/causefx/Organizr) - Tab-based hub combining self-hosted apps and single sign-on into one dashboard.
+- [Portkey](https://github.com/kodehat/portkey) - Go-based start page with fuzzy search, custom HTML pages and a metrics endpoint.
 
 ## Wall displays, e-ink and hardware screens
 
@@ -123,6 +124,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Holistics](https://www.holistics.io/) - Self-service analytics platform built around a semantic modeling layer, with SQL pass-through for analysts.
 - [Lightdash](https://www.lightdash.com/) - Business intelligence tool built on dbt, with a metrics catalog and governed self-serve exploration.
 - [Metabase](https://www.metabase.com/) - Business intelligence platform with a query builder, SQL editor and an embeddable analytics SDK.
+- [Mode](https://mode.com/) - Collaborative analytics hub that pairs SQL, Python and R notebooks with dashboards for shared reporting.
 
 ## Monitoring and observability
 
@@ -134,6 +136,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Netdata](https://www.netdata.cloud/) - Per-second infrastructure monitoring agent with zero-configuration dashboards and an AI root-cause assistant.
 - [Perses](https://perses.dev/) - CNCF dashboard tool built around an open specification, with dashboard-as-code SDKs and a Kubernetes operator.
 - [Prometheus](https://prometheus.io/) - Metrics database and alerting engine with a built-in expression browser, usually paired with Grafana for dashboards.
+- [PRTG Network Monitor](https://www.paessler.com/prtg) - Network monitoring dashboard covering bandwidth, uptime and infrastructure health, licensed by sensor count.
 
 ## Team KPI and TV dashboards
 
@@ -156,6 +159,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Plotly Dash](https://dash.plotly.com/) - Python framework for building analytical web apps and dashboards using reactive callbacks.
 - [react-admin](https://marmelab.com/react-admin/) - React framework for turning a REST or GraphQL API into an admin dashboard.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - React library for draggable, resizable grid layouts used to build custom dashboard interfaces.
+- [refine](https://refine.dev/) - React meta-framework for building admin panels, dashboards and internal tools with less code.
 
 ## Admin dashboard templates
 
