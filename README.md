@@ -81,6 +81,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Nimbus](https://nimbus.turboot.com/) - Multi-user homelab dashboard with health checks, uptime graphs and drag-and-drop tiles.
 - [Organizr](https://github.com/causefx/Organizr) - Tab-based hub combining self-hosted apps and single sign-on into one dashboard.
 - [Portkey](https://github.com/kodehat/portkey) - Go-based start page with fuzzy search, custom HTML pages and a metrics endpoint.
+- [Starbase 80](https://github.com/notclickable-jordan/starbase-80) - App grid homepage styled after iPadOS, for Docker services set up with one JSON file.
 
 ## Wall displays, e-ink and hardware screens
 
@@ -125,6 +126,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Lightdash](https://www.lightdash.com/) - Business intelligence tool built on dbt, with a metrics catalog and governed self-serve exploration.
 - [Metabase](https://www.metabase.com/) - Business intelligence platform with a query builder, SQL editor and an embeddable analytics SDK.
 - [Mode](https://mode.com/) - Collaborative analytics hub that pairs SQL, Python and R notebooks with dashboards for shared reporting.
+- [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - Microsoft reporting suite with a free desktop authoring tool and paid per-user plans for sharing.
 
 ## Monitoring and observability
 
@@ -137,6 +139,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Perses](https://perses.dev/) - CNCF dashboard tool built around an open specification, with dashboard-as-code SDKs and a Kubernetes operator.
 - [Prometheus](https://prometheus.io/) - Metrics database and alerting engine with a built-in expression browser, usually paired with Grafana for dashboards.
 - [PRTG Network Monitor](https://www.paessler.com/prtg) - Network monitoring dashboard covering bandwidth, uptime and infrastructure health, licensed by sensor count.
+- [SigNoz](https://signoz.io/) - Open source Datadog alternative unifying traces, logs, metrics and dashboards on OpenTelemetry data.
 
 ## Team KPI and TV dashboards
 
@@ -170,6 +173,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Metronic](https://keenthemes.com/metronic/) - Paid dashboard template built with Tailwind CSS and Bootstrap, sold for many years.
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - React admin dashboard built with shadcn/ui components and Vite.
 - [Sneat](https://themeselection.com/item/sneat-bootstrap-html-admin-template/) - Bootstrap admin dashboard template with matching React and Vue versions available.
+- [Tabler](https://tabler.io/) - Bootstrap-based dashboard UI kit with a large set of ready-made pages.
 
 ## Related Lists
 
