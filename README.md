@@ -127,6 +127,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Metabase](https://www.metabase.com/) - Business intelligence platform with a query builder, SQL editor and an embeddable analytics SDK.
 - [Mode](https://mode.com/) - Collaborative analytics hub that pairs SQL, Python and R notebooks with dashboards for shared reporting.
 - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - Microsoft reporting suite with a free desktop authoring tool and paid per-user plans for sharing.
+- [Preset](https://preset.io/) - Hosted version of Apache Superset, free for small teams and paid per seat beyond that.
 
 ## Monitoring and observability
 
@@ -163,6 +164,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [react-admin](https://marmelab.com/react-admin/) - React framework for turning a REST or GraphQL API into an admin dashboard.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - React library for draggable, resizable grid layouts used to build custom dashboard interfaces.
 - [refine](https://refine.dev/) - React meta-framework for building admin panels, dashboards and internal tools with less code.
+- [Retool](https://retool.com/) - Hosted platform for building internal business tools and dashboards on top of existing databases.
 
 ## Admin dashboard templates
 
@@ -174,6 +176,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - React admin dashboard built with shadcn/ui components and Vite.
 - [Sneat](https://themeselection.com/item/sneat-bootstrap-html-admin-template/) - Bootstrap admin dashboard template with matching React and Vue versions available.
 - [Tabler](https://tabler.io/) - Bootstrap-based dashboard UI kit with a large set of ready-made pages.
+- [TailAdmin](https://tailadmin.com/) - Tailwind CSS admin dashboard template with free and paid tiers across six frameworks.
 
 ## Related Lists
 
