@@ -141,6 +141,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Prometheus](https://prometheus.io/) - Metrics database and alerting engine with a built-in expression browser, usually paired with Grafana for dashboards.
 - [PRTG Network Monitor](https://www.paessler.com/prtg) - Network monitoring dashboard covering bandwidth, uptime and infrastructure health, licensed by sensor count.
 - [SigNoz](https://signoz.io/) - Open source Datadog alternative unifying traces, logs, metrics and dashboards on OpenTelemetry data.
+- [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted status dashboard with uptime checks, a live demo and one-line Docker deployment.
 
 ## Team KPI and TV dashboards
 
@@ -165,6 +166,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - React library for draggable, resizable grid layouts used to build custom dashboard interfaces.
 - [refine](https://refine.dev/) - React meta-framework for building admin panels, dashboards and internal tools with less code.
 - [Retool](https://retool.com/) - Hosted platform for building internal business tools and dashboards on top of existing databases.
+- [Shiny](https://shiny.posit.co/) - R and Python package for building interactive web apps directly from analysis code.
 
 ## Admin dashboard templates
 
@@ -177,6 +179,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Sneat](https://themeselection.com/item/sneat-bootstrap-html-admin-template/) - Bootstrap admin dashboard template with matching React and Vue versions available.
 - [Tabler](https://tabler.io/) - Bootstrap-based dashboard UI kit with a large set of ready-made pages.
 - [TailAdmin](https://tailadmin.com/) - Tailwind CSS admin dashboard template with free and paid tiers across six frameworks.
+- [Vue Vben Admin](https://github.com/vbenjs/vue-vben-admin) - Vue 3 admin panel built with Shadcn UI, Vite and a monorepo structure.
 
 ## Related Lists
 
