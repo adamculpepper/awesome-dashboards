@@ -129,6 +129,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Mode](https://mode.com/) - Collaborative analytics hub that pairs SQL, Python and R notebooks with dashboards for shared reporting.
 - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - Microsoft reporting suite with a free desktop authoring tool and paid per-user plans for sharing.
 - [Preset](https://preset.io/) - Hosted version of Apache Superset, free for small teams and paid per seat beyond that.
+- [Redash](https://redash.io/) - Query editor and dashboard builder that connects SQL, NoSQL and API data sources in one place.
 
 ## Monitoring and observability
 
@@ -143,6 +144,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [PRTG Network Monitor](https://www.paessler.com/prtg) - Network monitoring dashboard covering bandwidth, uptime and infrastructure health, licensed by sensor count.
 - [SigNoz](https://signoz.io/) - Open source Datadog alternative unifying traces, logs, metrics and dashboards on OpenTelemetry data.
 - [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted status dashboard with uptime checks, a live demo and one-line Docker deployment.
+- [Zabbix](https://www.zabbix.com/) - Enterprise infrastructure monitoring platform with built-in dashboards, triggers and automatic device discovery.
 
 ## Team KPI and TV dashboards
 
