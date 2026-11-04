@@ -75,6 +75,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Glance](https://github.com/glanceapp/glance) - Self-hosted feed aggregator with RSS, Reddit, and server stat widgets in one page.
 - [Heimdall](https://heimdall.site/) - Application launcher for homelab services with search and per-app live stats.
 - [Homarr](https://homarr.dev/) - Drag-and-drop homelab dashboard with built-in authentication and third-party integrations.
+- [HomeLab Monitor](https://github.com/SikamikanikoBG/homelab-monitor) - Single-container dashboard for GPU, Docker, systemd and power costs, with a read-only MCP server.
 - [Homepage](https://gethomepage.dev/) - Static server dashboard with service integrations and Docker label discovery.
 - [Homer](https://github.com/bastienwirtz/homer) - Static landing page for a server, built from one YAML file with fuzzy search.
 - [Hubleys](https://github.com/knrdl/hubleys-dashboard) - Per-user link dashboard with folders, weather, calendar events and admin-controlled groups.
