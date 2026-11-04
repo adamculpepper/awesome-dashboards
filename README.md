@@ -118,6 +118,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 ## Business intelligence and analytics
 
 - [Apache Superset](https://superset.apache.org/) - Data exploration platform under the Apache Software Foundation, with a no-code chart builder and SQL IDE.
+- [arcodash](https://www.arcodash.com) - Hosted SQL dashboards with built-in data checks and alerts on freshness, row count and null rate.
 - [Cube](https://cube.dev/) - Semantic layer that connects data models to dashboards and embedded analytics.
 - [Data Studio](https://cloud.google.com/looker-studio) - Google Cloud reporting tool with drag-and-drop charts and many data connectors.
 - [Domo](https://www.domo.com/) - Cloud platform for building dashboards, apps and shared business reports.
