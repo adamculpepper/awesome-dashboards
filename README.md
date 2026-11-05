@@ -130,6 +130,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - Microsoft reporting suite with a free desktop authoring tool and paid per-user plans for sharing.
 - [Preset](https://preset.io/) - Hosted version of Apache Superset, free for small teams and paid per seat beyond that.
 - [Redash](https://redash.io/) - Query editor and dashboard builder that connects SQL, NoSQL and API data sources in one place.
+- [Sigma](https://www.sigmacomputing.com/) - Analytics platform with a spreadsheet interface that queries your data warehouse directly.
 
 ## Monitoring and observability
 
@@ -170,6 +171,8 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [refine](https://refine.dev/) - React meta-framework for building admin panels, dashboards and internal tools with less code.
 - [Retool](https://retool.com/) - Hosted platform for building internal business tools and dashboards on top of existing databases.
 - [Shiny](https://shiny.posit.co/) - R and Python package for building interactive web apps directly from analysis code.
+- [Streamlit](https://streamlit.io/) - Python library that turns data scripts into shareable web apps without frontend code.
+- [ToolJet](https://www.tooljet.ai/) - Open source low-code platform for building internal tools and dashboards from many data sources.
 
 ## Admin dashboard templates
 
