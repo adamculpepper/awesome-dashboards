@@ -131,6 +131,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Preset](https://preset.io/) - Hosted version of Apache Superset, free for small teams and paid per seat beyond that.
 - [Redash](https://redash.io/) - Query editor and dashboard builder that connects SQL, NoSQL and API data sources in one place.
 - [Sigma](https://www.sigmacomputing.com/) - Analytics platform with a spreadsheet interface that queries your data warehouse directly.
+- [Tableau](https://www.tableau.com/) - Visual analytics platform from Salesforce with drag-and-drop charts and a free desktop edition for local files.
 
 ## Monitoring and observability
 
@@ -173,6 +174,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Shiny](https://shiny.posit.co/) - R and Python package for building interactive web apps directly from analysis code.
 - [Streamlit](https://streamlit.io/) - Python library that turns data scripts into shareable web apps without frontend code.
 - [ToolJet](https://www.tooljet.ai/) - Open source low-code platform for building internal tools and dashboards from many data sources.
+- [Tremor](https://tremor.so/) - React component library for charts and dashboard interfaces, open sourced after Vercel's acquisition.
 
 ## Admin dashboard templates
 
