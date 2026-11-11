@@ -98,6 +98,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 
 ## Smart home
 
+- [Animara](https://animara.io/?utm_source=awesome-dashboards&utm_medium=listing&utm_campaign=smart-home) - Home Assistant dashboards that build themselves from your rooms, with 307 animated device icons.
 - [Apple Home](https://www.apple.com/home-app/) - Built-in dashboard for HomeKit and Matter accessories across iPhone, iPad, Mac and Vision.
 - [Google Home](https://home.google.com/) - Dashboard app for Nest, Chromecast and Matter devices with Gemini voice control.
 - [Home Assistant](https://www.home-assistant.io/dashboards/) - Drag-and-drop dashboard built into an open source smart home automation platform.
