@@ -16,6 +16,8 @@ Every entry is one line:
 - [Name](url) - Description.
 ```
 
+Link to the product's own site or repository with a plain URL. Tracking and referral parameters (`utm_` tags, `ref=` codes, affiliate IDs) get removed before merging; only the sponsor's links carry them.
+
 The description:
 
 - is objective: what the product does, plus what sets it apart from similar entries;

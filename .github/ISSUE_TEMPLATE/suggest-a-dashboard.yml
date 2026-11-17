@@ -14,7 +14,7 @@ body:
     id: url
     attributes:
       label: URL
-      description: A direct link to the product's own site or repository.
+      description: A direct link to the product's own site or repository, without tracking or referral parameters.
       placeholder: https://example.com
     validations:
       required: true
