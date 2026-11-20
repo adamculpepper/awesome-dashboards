@@ -42,7 +42,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [Abunch](https://abunch.io/) - Personal web desktop organizing links into public or private categories.
 - [Best Homepage Ever](https://besthomepageever.com/) - Ad-free homepage with self-arranged website shortcuts, live weather and AI-generated backgrounds.
 - [CentPage](https://www.centpage.com/) - Start page and productivity dashboard with widgets and an ad-free premium tier.
-- [igHome](https://www.ighome.com/Default.aspx) - Portal in the iGoogle style, offering customizable gadgets, bookmarks and news feeds.
+- [igHome](https://ighome.com/) - Portal in the iGoogle style, offering customizable gadgets, bookmarks and news feeds.
 - [Kadaza](https://www.kadaza.com/) - Directory-style start page grouping popular sites into topics, with custom backgrounds.
 - [MyFav.es](https://myfav.es/) - Minimal start page for picking favorite site icons and a background, then sharing the URL.
 - [MyKK](https://mykk.us/) - Single HTML file start page with drag-drop widgets, offline storage and optional cloud sync.
@@ -90,7 +90,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [DAKboard](https://dakboard.com/) - Wall display service showing calendars, photos, weather and smart home status on any screen.
 - [Inkycal](https://inkycal.aceinnolab.com/) - Open source e-paper dashboard framework for Raspberry Pi, sold assembled or built yourself.
 - [InkyPi](https://github.com/fatihak/InkyPi) - Open source e-ink dashboard for Raspberry Pi with a browser-based plugin configuration.
-- [LaMetric Time](https://www.lametric.com/en-us/lametric-time) - Pixel-display smart clock showing weather, notifications and app data from a public app store.
+- [LaMetric Time](https://lametric.com/en-US/time/overview) - Pixel-display smart clock showing weather, notifications and app data from a public app store.
 - [MagicMirror²](https://magicmirror.builders/) - Open source framework for building a Raspberry Pi smart mirror from modular widgets.
 - [Skylight Calendar](https://www.skylightframe.com/products/skylight-calendar) - Wall-mounted touchscreen family calendar with chores, meal planning and photo screensaver.
 - [Tidbyt](https://tidbyt.com/) - LED matrix wall display cycling through apps for sports, stocks, weather and transit.
@@ -183,7 +183,7 @@ Longer write-ups for many entries, with checked prices and screenshots, live at 
 - [AdminLTE](https://adminlte.io/) - Bootstrap 5 admin dashboard template with a large library of prebuilt pages and widgets.
 - [Ant Design Pro](https://pro.ant.design/) - Out of the box admin panel built on the Ant Design system.
 - [CoreUI](https://coreui.io/) - Admin template and component library available for Bootstrap, React, Vue and Angular.
-- [Materio](https://themeselection.com/item/materio-mui-react-nextjs-admin-template-free/) - MUI and Vuetify admin dashboard template for Next.js, React and Vue projects.
+- [Materio](https://themeselection.com/item/materio-free-mui-nextjs-admin-template/) - MUI and Vuetify admin dashboard template for Next.js, React and Vue projects.
 - [Metronic](https://keenthemes.com/metronic/) - Paid dashboard template built with Tailwind CSS and Bootstrap, sold for many years.
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - React admin dashboard built with shadcn/ui components and Vite.
 - [Sneat](https://themeselection.com/item/sneat-bootstrap-html-admin-template/) - Bootstrap admin dashboard template with matching React and Vue versions available.
